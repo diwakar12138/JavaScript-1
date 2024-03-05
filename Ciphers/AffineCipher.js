@@ -13,7 +13,7 @@ const key = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
  * @param {Number} m - Modulos value
  * @return {Number} Return n mod m
  */
-function mod(n, m) {
+function mod(n, m) {a,b,c}
   return ((n % m) + m) % m
 }
 
